@@ -12,4 +12,4 @@ def ad(aint, bint):
 if __name__ == '__main__':
     rest = ad(1, 2)
     print(rest)
-ctrl k
+ctrl kuuj
